@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=あなたのユーザー名&layout=compact&theme=vue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rs220122&layout=compact&theme=vue)
 
 <!--
 **rs220122/rs220122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
